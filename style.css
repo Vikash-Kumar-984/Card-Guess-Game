@@ -9,13 +9,13 @@
     width: 80%;
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: rgb(25, 157, 190);
+    background-color: rgb(25 63 190);
     margin-left: 10%;
 }
 .top{
     margin: 0px;
     padding: 0px;
-    background-color: rgb(174, 72, 214);
+    background-color: rgb(72 214 127);
     display: flex;
     justify-content: center;
 }
@@ -36,7 +36,7 @@
 
 .cards{
     width: 100%;
-    background-color: rgb(154, 190, 23);
+    background-color: rgb(54 23 190 / 79%);
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
