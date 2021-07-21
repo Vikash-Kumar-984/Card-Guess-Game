@@ -8,6 +8,8 @@ If the user fails to choose right choice then GAME OVER! Score then reupdated to
 
 Then start the new game and try to beat your past score :)
 
+Game Link: https://vikash-kumar-984.github.io/Card-Guess-Game/
+
 All the best
 
 ~ Vikash Kumar
